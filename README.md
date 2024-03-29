@@ -3,6 +3,7 @@
 
 ## train config
 - configs in`configs/femtodet`
+- train script `run.sh`
 ```
 |  Detector  | Params | box AP50 |              Config                    | 
 ---------------------------------------------------------------------------
